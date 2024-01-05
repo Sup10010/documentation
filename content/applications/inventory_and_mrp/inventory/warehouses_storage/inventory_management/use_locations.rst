@@ -42,6 +42,8 @@ Starting from the :menuselection:`Inventory` app, select :menuselection:`Configu
    :align: center
    :alt: The form for creating a new location.
 
+.. _inventory/location-hierarchy:
+
 Create location hierarchies
 ===========================
 
